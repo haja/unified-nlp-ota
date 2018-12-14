@@ -5,8 +5,8 @@
 - zip contents, e.g. `zip -r unified-nlp-ota.zip *`
 - load the zip to your android device
 - reboot to recovery
-- flash the zip it as ota package
+- flash the zip as ota package
 
-based on the ota-wrapper for fdroid priviledged extension
+based on the ota-wrapper for fdroid priviledged extension,
 see https://gitlab.com/fdroid/privileged-extension
 

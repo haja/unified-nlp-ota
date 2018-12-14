@@ -19,7 +19,7 @@
 # communicate with it using the recovery api.
 # arg 3 is the zip file
 
-echo -n -e 'ui_print Installing FDroidPrivilegedExtension...\n' > /proc/self/fd/$2
+echo -n -e 'ui_print Installing UnifiedNlp OTA...\n' > /proc/self/fd/$2
 
 FPE_NAME=UnifiedNlp
 FPE=${FPE_NAME}.apk
